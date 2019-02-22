@@ -17,6 +17,9 @@
           <option name="port" value="22" />
         </fileTransfer>
       </webServer>
+      <webServer id="ff2e3732-b02f-4560-8caf-f6f54f186c25" name="History Statistics" url="http://localhost">
+        <fileTransfer port="0" accessType="LOCAL" />
+      </webServer>
     </option>
     <groups>
       <group>
