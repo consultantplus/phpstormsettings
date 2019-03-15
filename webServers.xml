@@ -2,7 +2,7 @@
   <component name="WebServers">
     <option name="servers">
       <webServer id="e3d298c3-97b1-4b26-b1d3-d6b956aaf8b5" name="lapinds@vpi-ndev1" url="http://lapinds.vpi-ndev1.consultant.ru">
-        <fileTransfer host="vpi-ndev1.consultant.ru" port="22" privateKey="C:\Users\VIV-LapinDS\.ssh\id_rsa" rootFolder="/usr/home/lapinds" accessType="SFTP" keyPair="true">
+        <fileTransfer host="vpi-ndev1.consultant.ru" port="22" privateKey="C:\Users\VIV-LapinDS\.ssh\id_rsa" rootFolder="/usr/home/lapinds/www" accessType="SFTP" keyPair="true">
           <advancedOptions>
             <advancedOptions dataProtectionLevel="Private" />
           </advancedOptions>
@@ -10,7 +10,7 @@
         </fileTransfer>
       </webServer>
       <webServer id="28a3d959-9135-4dd6-96c7-3a310fb233c7" name="lapinds@vpi-ndev2" url="http://lapinds.vpi-ndev2.consultant.ru">
-        <fileTransfer host="vpi-ndev2.consultant.ru" port="22" privateKey="C:\Users\VIV-LapinDS\.ssh\id_rsa" rootFolder="/usr/home/lapinds" accessType="SFTP" keyPair="true">
+        <fileTransfer host="vpi-ndev2.consultant.ru" port="22" privateKey="C:\Users\VIV-LapinDS\.ssh\id_rsa" rootFolder="/usr/home/lapinds/www" accessType="SFTP" keyPair="true">
           <advancedOptions>
             <advancedOptions dataProtectionLevel="Private" />
           </advancedOptions>
