@@ -3,7 +3,7 @@
     <configs>
       <sshConfig host="vpi-ndev1.consultant.ru" id="74838436-a688-4116-b924-0a7610325627" keyPath="C:\Users\VIV-LapinDS\.ssh\id_rsa" port="22" customName="lapinds@vpi-ndev1" nameFormat="CUSTOM" username="lapinds" />
       <sshConfig host="vpi-ndev2.consultant.ru" id="6785c598-386f-427f-9c19-eb57817e49b5" keyPath="C:\Users\VIV-LapinDS\.ssh\id_rsa" port="22" customName="lapinds@vpi-ndev2" nameFormat="CUSTOM" username="lapinds" />
-      <sshConfig host="vpi-ndev2.consultant.ru" id="13d1c256-cff1-438f-90ac-c65c365fb004" keyPath="C:\Users\VIV-LapinDS\.ssh\id_rsa" port="22" customName="lapinds@vpi-ndev2" nameFormat="CUSTOM" username="lapinds" />
+      <sshConfig host="vpi-ndev2.consultant.ru" id="0740d02b-19d0-4ce5-9e3c-307a4eaba5c4" keyPath="C:\Users\VIV-LapinDS\.ssh\id_rsa" port="22" customName="lapinds@vpi-ndev2" nameFormat="CUSTOM" username="lapinds" />
     </configs>
   </component>
 </application>
